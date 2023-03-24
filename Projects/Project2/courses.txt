@@ -1,0 +1,13 @@
+Data structures:4#COMP2421#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+Introduction to programming:3#COMP133#Computer Science/algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+Introduction to French:3#FREN111#French Language/letters, numbers, greetings, grammars, statements
+Calculas 1:4#MATH1411#Mathematics/Function, relation, Integration, differentiation
+Calculas 2:3#MATH1321#Mathematics/Sequence, series, infinite series, Power Series, Parametric equation, Polar Coordinates
+General Physics 1:4#PHYS141#Physics/measurment, vectors, motion in 2D, force, Energy, Rotation
+General Physics 2:3#PHYS132#Physics/static electricity, kirtchof law, capacitor, inductor
+PROBABILITY AND ENGINEERING STATISTICS:3#ENEE2307#Electrical Engineering/Fundamental Concepts of Probability, Single Random Variables, Probaility Distributions, Elementary statistics, Estimation Theory
+ORDINARY DIFFERENTIAL EQUATIONS:3#MATH331#Mathematics/FODE, series solution, laplace transform, system of defrential equation
+ADVANCED PROGRAMMING:3#COMP231#Computer Science/Introduction to Java, Objects and classes, Inheritance, Polymorphism, Abstract class, Interface, Exception, JavaFx
+DIGITAL SYSTEMS:3#ENCS2340#Computer Systems Engineering/numbering systems, logic gates, minterm and maxterm, K-Map, Design and Analysis, Decoder, Mux, Registers, Sequential circuits, Counters
+DISCRETE MATHEMATICS:3#COMP233#Computer Science/propostional logic, FOL, Number Theory, Sequence, Induction, Set theory, Function, Relation, Counting
+ADVANCED ENGLISH I:2#ENGC2203#English Language/Reading, Grammer, Writing, Listening, Critical thinking, Speaking

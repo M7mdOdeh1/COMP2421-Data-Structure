@@ -1,0 +1,8 @@
+Introduction to programming:3#COMP133#Computer Science/algorithms, introduction to c, functions
+ADVANCED PROGRAMMING:3#COMP231#Computer Science/Introduction to Java, Objects and classes, Inheritance
+DISCRETE MATHEMATICS:3#COMP233#Computer Science/propostional logic, FOL, Number Theory, Sequence
+Data structures:4#COMP2421#Computer Science/recursion, time analysis, linked lists, stacks, queues
+DIGITAL SYSTEMS:3#ENCS2340#Computer Systems Engineering/numbering systems, logic gates
+PROBABILITY AND ENGINEERING STATISTICS:3#ENEE2307#Electrical Engineering/Fundamental Concepts of Probability
+General Physics 1:4#PHYS141#Physics/measurment, vectors, motion in 2D, force, Energy, Rotation
+ac:3#comp1234#Tech/ada,asdf,sdf,asdf
